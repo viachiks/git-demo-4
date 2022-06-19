@@ -1,2 +1,3 @@
 12345
 67890
+add 1 string from new branch "second"
